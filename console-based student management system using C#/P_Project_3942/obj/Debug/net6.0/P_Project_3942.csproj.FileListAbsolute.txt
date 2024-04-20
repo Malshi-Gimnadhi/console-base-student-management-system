@@ -1,0 +1,60 @@
+E:\P_Project_3942\P_Project_3942\obj\Debug\net6.0\P_Project_3942.csproj.AssemblyReference.cache
+E:\P_Project_3942\P_Project_3942\obj\Debug\net6.0\P_Project_3942.GeneratedMSBuildEditorConfig.editorconfig
+E:\P_Project_3942\P_Project_3942\obj\Debug\net6.0\P_Project_3942.AssemblyInfoInputs.cache
+E:\P_Project_3942\P_Project_3942\obj\Debug\net6.0\P_Project_3942.AssemblyInfo.cs
+E:\P_Project_3942\P_Project_3942\obj\Debug\net6.0\P_Project_3942.csproj.CoreCompileInputs.cache
+E:\P_Project_3942\P_Project_3942\bin\Debug\net6.0\P_Project_3942.exe
+E:\P_Project_3942\P_Project_3942\bin\Debug\net6.0\P_Project_3942.deps.json
+E:\P_Project_3942\P_Project_3942\bin\Debug\net6.0\P_Project_3942.runtimeconfig.json
+E:\P_Project_3942\P_Project_3942\bin\Debug\net6.0\P_Project_3942.dll
+E:\P_Project_3942\P_Project_3942\bin\Debug\net6.0\P_Project_3942.pdb
+E:\P_Project_3942\P_Project_3942\obj\Debug\net6.0\P_Project_3942.dll
+E:\P_Project_3942\P_Project_3942\obj\Debug\net6.0\refint\P_Project_3942.dll
+E:\P_Project_3942\P_Project_3942\obj\Debug\net6.0\P_Project_3942.pdb
+E:\P_Project_3942\P_Project_3942\obj\Debug\net6.0\P_Project_3942.genruntimeconfig.cache
+E:\P_Project_3942\P_Project_3942\obj\Debug\net6.0\ref\P_Project_3942.dll
+D:\NSBM\Project\P_Project_3942\P_Project_3942\bin\Debug\net6.0\P_Project_3942.exe
+D:\NSBM\Project\P_Project_3942\P_Project_3942\bin\Debug\net6.0\P_Project_3942.deps.json
+D:\NSBM\Project\P_Project_3942\P_Project_3942\bin\Debug\net6.0\P_Project_3942.runtimeconfig.json
+D:\NSBM\Project\P_Project_3942\P_Project_3942\bin\Debug\net6.0\P_Project_3942.dll
+D:\NSBM\Project\P_Project_3942\P_Project_3942\bin\Debug\net6.0\P_Project_3942.pdb
+D:\NSBM\Project\P_Project_3942\P_Project_3942\obj\Debug\net6.0\P_Project_3942.csproj.AssemblyReference.cache
+D:\NSBM\Project\P_Project_3942\P_Project_3942\obj\Debug\net6.0\P_Project_3942.GeneratedMSBuildEditorConfig.editorconfig
+D:\NSBM\Project\P_Project_3942\P_Project_3942\obj\Debug\net6.0\P_Project_3942.AssemblyInfoInputs.cache
+D:\NSBM\Project\P_Project_3942\P_Project_3942\obj\Debug\net6.0\P_Project_3942.AssemblyInfo.cs
+D:\NSBM\Project\P_Project_3942\P_Project_3942\obj\Debug\net6.0\P_Project_3942.csproj.CoreCompileInputs.cache
+D:\NSBM\Project\P_Project_3942\P_Project_3942\obj\Debug\net6.0\P_Project_3942.dll
+D:\NSBM\Project\P_Project_3942\P_Project_3942\obj\Debug\net6.0\refint\P_Project_3942.dll
+D:\NSBM\Project\P_Project_3942\P_Project_3942\obj\Debug\net6.0\P_Project_3942.pdb
+D:\NSBM\Project\P_Project_3942\P_Project_3942\obj\Debug\net6.0\P_Project_3942.genruntimeconfig.cache
+D:\NSBM\Project\P_Project_3942\P_Project_3942\obj\Debug\net6.0\ref\P_Project_3942.dll
+M:\P_Project_3942\P_Project_3942\bin\Debug\net6.0\P_Project_3942.exe
+M:\P_Project_3942\P_Project_3942\bin\Debug\net6.0\P_Project_3942.deps.json
+M:\P_Project_3942\P_Project_3942\bin\Debug\net6.0\P_Project_3942.runtimeconfig.json
+M:\P_Project_3942\P_Project_3942\bin\Debug\net6.0\P_Project_3942.dll
+M:\P_Project_3942\P_Project_3942\bin\Debug\net6.0\P_Project_3942.pdb
+M:\P_Project_3942\P_Project_3942\obj\Debug\net6.0\P_Project_3942.csproj.AssemblyReference.cache
+M:\P_Project_3942\P_Project_3942\obj\Debug\net6.0\P_Project_3942.GeneratedMSBuildEditorConfig.editorconfig
+M:\P_Project_3942\P_Project_3942\obj\Debug\net6.0\P_Project_3942.AssemblyInfoInputs.cache
+M:\P_Project_3942\P_Project_3942\obj\Debug\net6.0\P_Project_3942.AssemblyInfo.cs
+M:\P_Project_3942\P_Project_3942\obj\Debug\net6.0\P_Project_3942.csproj.CoreCompileInputs.cache
+M:\P_Project_3942\P_Project_3942\obj\Debug\net6.0\P_Project_3942.dll
+M:\P_Project_3942\P_Project_3942\obj\Debug\net6.0\refint\P_Project_3942.dll
+M:\P_Project_3942\P_Project_3942\obj\Debug\net6.0\P_Project_3942.pdb
+M:\P_Project_3942\P_Project_3942\obj\Debug\net6.0\P_Project_3942.genruntimeconfig.cache
+M:\P_Project_3942\P_Project_3942\obj\Debug\net6.0\ref\P_Project_3942.dll
+M:\my campus doc\Projects\console-based student management system using C#\P_Project_3942\bin\Debug\net6.0\P_Project_3942.exe
+M:\my campus doc\Projects\console-based student management system using C#\P_Project_3942\bin\Debug\net6.0\P_Project_3942.deps.json
+M:\my campus doc\Projects\console-based student management system using C#\P_Project_3942\bin\Debug\net6.0\P_Project_3942.runtimeconfig.json
+M:\my campus doc\Projects\console-based student management system using C#\P_Project_3942\bin\Debug\net6.0\P_Project_3942.dll
+M:\my campus doc\Projects\console-based student management system using C#\P_Project_3942\bin\Debug\net6.0\P_Project_3942.pdb
+M:\my campus doc\Projects\console-based student management system using C#\P_Project_3942\obj\Debug\net6.0\P_Project_3942.csproj.AssemblyReference.cache
+M:\my campus doc\Projects\console-based student management system using C#\P_Project_3942\obj\Debug\net6.0\P_Project_3942.GeneratedMSBuildEditorConfig.editorconfig
+M:\my campus doc\Projects\console-based student management system using C#\P_Project_3942\obj\Debug\net6.0\P_Project_3942.AssemblyInfoInputs.cache
+M:\my campus doc\Projects\console-based student management system using C#\P_Project_3942\obj\Debug\net6.0\P_Project_3942.AssemblyInfo.cs
+M:\my campus doc\Projects\console-based student management system using C#\P_Project_3942\obj\Debug\net6.0\P_Project_3942.csproj.CoreCompileInputs.cache
+M:\my campus doc\Projects\console-based student management system using C#\P_Project_3942\obj\Debug\net6.0\P_Project_3942.dll
+M:\my campus doc\Projects\console-based student management system using C#\P_Project_3942\obj\Debug\net6.0\refint\P_Project_3942.dll
+M:\my campus doc\Projects\console-based student management system using C#\P_Project_3942\obj\Debug\net6.0\P_Project_3942.pdb
+M:\my campus doc\Projects\console-based student management system using C#\P_Project_3942\obj\Debug\net6.0\P_Project_3942.genruntimeconfig.cache
+M:\my campus doc\Projects\console-based student management system using C#\P_Project_3942\obj\Debug\net6.0\ref\P_Project_3942.dll
